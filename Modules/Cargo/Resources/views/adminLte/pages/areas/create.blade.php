@@ -4,8 +4,10 @@
     {{ __('cargo::view.create_new_area') }}
 @endsection
 
+{{-- changed --}}
+
 @section('content')
-    
+
     <!--begin::Basic info-->
     <div class="card mb-5 mb-xl-10">
         <!--begin::Card header-->
